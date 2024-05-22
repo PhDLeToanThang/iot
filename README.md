@@ -184,8 +184,12 @@ the below function to calculate the mean value of a list
 anim = FuncAnimation(fig,add_new_data,interval=1700)
 
 plt.show()
-#Results:
-``` 
+```
+## Results:
+
+![image](https://github.com/PhDLeToanThang/iot/assets/106635733/1e81b8d9-104a-4e81-86ce-94a80df09811)
+
+![image](https://github.com/PhDLeToanThang/iot/assets/106635733/0e7bb91d-19ec-44d7-9c58-77be1be2b920)
 
 ## Conclusion:
 In this project, we successfullty collected data from DHT11 sensor send them to the pc via the serial communication and displayed the data ,using the matplotlib module.
