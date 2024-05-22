@@ -1,17 +1,19 @@
-Sensor-data-visualization-with-esp32-and-python
-Table of Contents
-About The Project
-Hardware Requirements
-Software Requirements
-Python environment
-Packages
-Software implementation
-Arduino code
-Python implementation
-Results
-Conclusion
-Contact
-About the project
+# Sensor-data-visualization-with-esp32-and-python
+
+1. Table of Contents
+1. About The Project
+1. Hardware Requirements
+1. Software Requirements
+1. Python environment
+1. Packages
+1. Software implementation
+1. Arduino code
+1. Python implementation
+1. Results
+1. Conclusion
+1. Contact
+1. About the project
+
 Our eyes are drawn to colors and patterns. Data visualization is a form of visual art that grabs our interest and keeps our eyes on the message. When we see a chart, we quickly see trends and outliers.
 
 This projects consists of sending DHT11 sensor data acquired on a esp32 board and visualizing the data with a python script using matplotlib
